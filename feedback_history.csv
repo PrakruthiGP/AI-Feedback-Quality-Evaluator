@@ -1,0 +1,11 @@
+Date & Time,Feedback,Rating,Sentiment,Compound Score,Quality Score,Quality Label,Category
+2026-10-27 10:11:16,the trainer didn't explain correctly,2,Neutral,0.0,40,Moderate,Trainer / Teaching
+2026-10-27 11:39:19,"The trainer explained the course concepts clearly and provided practical examples. The sessions were useful, but I suggest including more hands-on projects and practice assignments to improve our understanding.",4,Positive,0.768,100,High,Trainer / Teaching
+2026-10-27 11:43:37,The training sessions were confusing and the explanations were not clear. The trainer should provide better examples and more practical exercises because I struggled to understand the concepts.,2,Negative,-0.379,90,High,Trainer / Teaching
+2026-10-27 11:44:24,Good training session.,3,Positive,0.44,26,Low,General / Other
+2026-10-27 11:48:20,The course was helpful and the trainer explained the concepts clearly with good examples.,5,Positive,0.813,58,Moderate,Trainer / Teaching
+2026-10-31 12:33:57,The trainer explained the course content clearly with practical examples. More project sessions would improve our learning experience.,3,Positive,0.681,90,High,Trainer / Teaching
+2026-10-31 12:47:29,The trainer explained the course content clearly with practical examples. More project sessions would improve our learning experience.,3,Positive,0.681,90,High,Trainer / Teaching
+2026-10-31 14:12:50,"The product quality is good, and it works as expected. However, the battery life is shorter than advertised. Improving battery performance would make the product more reliable.""",3,Positive,0.6908,45,Moderate,General / Other
+2026-11-02 21:34:56,today prakruthi's presentation was good and funny,4,Positive,0.7003,20,Low,Other
+2026-11-03 13:41:19,"You've done an amazing job reaching our targets. By implementing the new workflow tool, you increased team productivity by 30% and kept every project on schedule",4,Positive,0.7717,60,Moderate,Practical Sessions
